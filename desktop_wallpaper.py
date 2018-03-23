@@ -7,8 +7,10 @@ import python_pixabay
 import os
 import ctypes
 from random import *
+
 # pixabay_api_key='4119664-75cc2144f4a944b21e461e646'
 pix = python_pixabay.Pixabay('4119664-75cc2144f4a944b21e461e646')
+
 # custom image search
 cis = pix.image_search(q='nature',
                        response_group = 'high_resolution',
