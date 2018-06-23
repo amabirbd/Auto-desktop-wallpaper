@@ -6,5 +6,5 @@ Whenever the app is run it sends a request to pixabay using its api to return li
 it randomly selects one picture saves it locally and sets it as desktop wallpaper. 
 Just wanted to to somthing like that.
 
-*currently works only on windows
+*currently works only on windows 64 bit
 
